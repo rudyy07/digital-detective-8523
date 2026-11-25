@@ -1,0 +1,2 @@
+First line: Learning Terminal basics.
+Second line: Appending without overwriting.
