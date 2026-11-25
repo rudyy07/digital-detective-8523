@@ -25,3 +25,9 @@ Each mission is completed, documented, tested, committed, and pushed to GitHub s
 | Mission 6 | Git, GitHub, branches and Pull Requests | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
 | Mission 7 | Computer networks | [mission-07-networking/README.md](mission-07-networking/README.md) |
 | Mission 8 | Final review and submission | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
+
+## My Learning
+
+- Practised navigating directories, redirecting text with `>` and `>>`, and combining commands with pipes (`|`) in macOS Terminal.
+- Learned how macOS manages processes with unique PIDs and protects files using owner read, write, and execute permissions.
+- Understood how binary and hexadecimal numbers map to decimal and verified manual conversions with a Python 3 script.
